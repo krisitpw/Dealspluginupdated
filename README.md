@@ -19,7 +19,7 @@ This plugin help to manage your deal and funding related custome data to store d
 
 = Minimum Requirements =
 
-* WooCommerce 2.2 or later
+* WooCommerce 5.7 or later
 * WordPress 5.8 or later
 
 = Automatic installation =<br>
